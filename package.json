@@ -1,0 +1,29 @@
+{
+  "name": "auroracp",
+  "description": "auroracp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "python -m SimpleHTTPServer 80",
+    "start": "python -m SimpleHTTPServer 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the349/auroracp.git"
+  },
+  "keywords": [
+    "club",
+    "penguin",
+    "auroracp",
+    "html5",
+    "js"
+  ],
+  "author": "the349",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the349/auroracp/issues"
+  },
+  "homepage": "https://github.com/the349/auroracp#readme"
+}
